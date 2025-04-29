@@ -11,6 +11,8 @@ Pass the value for number of iterations and print the numbers.
 End the program.
 
 # PROGRAM:
+## Developed By : HARISHKUMAR R
+## Register No  : 212223230073
 ```c
 #include <stdio.h>
 
